@@ -1,7 +1,4 @@
----
-data: '2021-03-31 12:08:43'
----
-# Tranzycja w latach 80./90. XX wieku.
+# Tranzycja w latach 80./90. XX wieku
 
 Jednym ze szczególnie ważnych rodzajów widoczności, o którą stale musimy dbać, jest nasza historia i opowieści starszych pokoleń - bez nich stajemy się bezbronni na ataki poprzez manipulacje faktami. Wmawia się społeczeństwu oraz nam samym, że jesteśmy tylko przelotną modą; czymś, co pojawiło się chwilę temu i tak samo za chwilę zniknie. Ale przecież to nieprawda! Byliśmy tu, w Polsce, od zawsze - czego świadectwem jest chociażby historia młodopolskiego pisarza [Piotra Własta](https://pl.wikipedia.org/wiki/Piotr_Odmieniec_W%C5%82ast). Tymczasem w ramach kultywowania tej relacji z własną historią, publikujemy wspomnienia osoby przechodzącej tranzycję w latach 80./90. ubiegłego wieku. Zapraszamy do lektury!
 
